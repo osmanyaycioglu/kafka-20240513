@@ -1,4 +1,4 @@
-package org.training.microservice;
+package org.training.kafka;
 
 /**
  * Hello world!

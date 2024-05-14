@@ -1,4 +1,4 @@
-package org.training.microservice;
+package org.training.kafka;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
